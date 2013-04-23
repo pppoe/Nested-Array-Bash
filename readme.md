@@ -33,7 +33,7 @@ A nested-array will look like this:
                         $(level_4 "Li" "Wang")) \
                     ))\
                 ))
-```bash
+```
             
 With some work you can populate the elements, and output them into a markdown nested list:
 
